@@ -1,0 +1,19 @@
+{
+"update_url":"http://clients2.google.com/service/update2/crx",
+    "name": "HuffingtonPost NewsGlide",
+    "description": "The official Huffington Post Chrome app! Get all the news you need with up-to-the-minute reports, blogs and analysis.", 
+    "app": {
+        "urls": [
+            "http://huffingtonpost.com/ajax/chromeapp/index.php"
+        ],
+        "launch": {
+            "web_url": "http://www.huffingtonpost.com/NewsGlide/"
+        }
+    },
+    "icons": {
+        "128": "resources/icon-H-chrome-128.png", 
+        "32": "resources/icon-H-chrome.png", 
+        "64": "resources/icon-H-chrome-64.png"
+    }, 
+    "version": "0.2.3"
+}

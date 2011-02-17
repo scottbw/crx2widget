@@ -1,0 +1,3 @@
+CRX2Widget is a set of Java classes to convert a Chrome Installed Web App into a W3C Widget (e.g. for use with Apache Wookie, Opera, or a WAC-compatible phone).
+
+Currently its a very basic proof-of-concept.
